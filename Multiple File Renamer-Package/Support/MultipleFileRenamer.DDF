@@ -1,0 +1,37 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="MultipleFileRenamer.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"MultipleFileRenamer.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"quartz.dll"
+"msstdfmt.dll"
+"scrrun.dll"
+"msvcrt.dll"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"English.bmp"
+"German.bmp"
+"Language.ini"
+"License.txt"
+"Logo.gif"
+"Logo.ico"
+"Manual_ENG.pdf"
+"Manual_GER.pdf"
+"Readme.txt"

@@ -1,0 +1,156 @@
+[Root]
+Most Recent Package=Multiple File Renamer
+
+
+[Package|Multiple File Renamer|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Package
+
+[Package|Multiple File Renamer|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Multiple File Renamer|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Multiple File Renamer|Files Found]
+English.bmp=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\English.bmp
+
+[Package|Multiple File Renamer|Files Released]
+
+[Package|Multiple File Renamer|Missing Dependency Information]
+C:\Windows\SysWOW64\quartz.dll=
+
+[Package|Multiple File Renamer|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\scrrun.dll=
+C:\Windows\SysWOW64\msstdfmt.dll=
+
+[Package|Multiple File Renamer|Files Added]
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\english.bmp=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\german.bmp=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\language.ini=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\license.txt=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\logo.gif=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\logo.ico=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\manual_eng.pdf=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\manual_ger.pdf=
+c:\users\tim\desktop\multiple file renamer komplett\multiple file renamer-projekt\readme.txt=
+
+[Package|Multiple File Renamer|Files Removed]
+
+[Package|Multiple File Renamer|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\SysWOW64\quartz.dll=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\MultipleFileRenamer.exe=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\English.bmp=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\German.bmp=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Language.ini=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\License.txt=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.gif=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.ico=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_ENG.pdf=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_GER.pdf=Yes
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Readme.txt=Yes
+
+[Package|Multiple File Renamer|Configure Registry Files]
+Applicable=No
+
+[Package|Multiple File Renamer|Configure Remote Servers]
+Applicable=No
+
+[Package|Multiple File Renamer|Install Locations]
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\MultipleFileRenamer.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\quartz.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\English.bmp=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\German.bmp=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Language.ini=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\License.txt=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Logo.gif=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Logo.ico=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Manual_ENG.pdf=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Manual_GER.pdf=$(AppPath)
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Readme.txt=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\MultipleFileRenamer.exe=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\English.bmp=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\German.bmp=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Language.ini=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\License.txt=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.gif=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.ico=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_ENG.pdf=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_GER.pdf=$(AppPath)
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Readme.txt=$(AppPath)
+
+[Package|Multiple File Renamer|Configure Shared Files]
+Applicable=Yes
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\MultipleFileRenamer.exe=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\English.bmp=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\German.bmp=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Language.ini=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\License.txt=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Logo.gif=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Logo.ico=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Manual_ENG.pdf=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Manual_GER.pdf=No
+T:\Multiple File Renamer\Multiple File Renamer-Projekt\Readme.txt=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\MultipleFileRenamer.exe=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\English.bmp=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\German.bmp=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Language.ini=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\License.txt=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.gif=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Logo.ico=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_ENG.pdf=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Manual_GER.pdf=No
+C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt\Readme.txt=No
+
+[Package|Multiple File Renamer|Distribution]
+Type=single
+Size=
+Title=MultipleFileRenamer
+
+[Package|Multiple File Renamer|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Multiple File Renamer|$(Programs)]
+Icon1=MultipleFileRenamer.exe
+Title1=Multiple File Renamer
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Multiple File Renamer|Package]
+PackageFolder=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Package
+ProjectFolder=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Projekt
+ServerSideCab=
+File1=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Package\setup.exe
+File2=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Package\Setup.Lst
+File3=C:\Users\Tim\Desktop\Multiple File Renamer Komplett\Multiple File Renamer-Package\MultipleFileRenamer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
