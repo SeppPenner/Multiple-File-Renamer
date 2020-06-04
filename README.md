@@ -20,4 +20,4 @@ The executable was written and tested in Visual Basic 6.
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-02-17)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/Multiple-File-Renamer/blob/master/Changelog.md).
